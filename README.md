@@ -3,7 +3,7 @@
 Welcome to my **public learning journey** into the world of Quality Engineering, Automation, and CI/CD.
 
 I'm tracking my progress through a game-themed roadmap, where I treat each skill as a "quest", and each milestone as "XP".  
-This isn't just a portfolio — it's my **Player Log** in the world of Dev + QA ⚔️👨‍💻
+This isn't just a portfolio — it's my **Player Log** in the world of Software Delivery ⚔️👨‍💻
 
 ---
 
