@@ -1,9 +1,9 @@
 # 🎯 Quest Tracker
 
-| Quest | Zone | XP | Status | Link |
-|-------|------|----|--------|------|
-| Learn CI/CD basics | Zone 1 | 200 | ⬜ | [Codecademy](https://www.codecademy.com/learn/learn-devops) |
-| Master Git + GitHub | Zone 1 | 150 | ⬜ | [GitHub Learning Lab](https://lab.github.com/) |
+| Quest | Zone | XP | Status |
+|-------|------|----|--------|
+| Learn CI/CD basics | Zone 1 | 200 | ⬜ | 
+| Master Git + GitHub | Zone 1 | 150 | ⬜ |
 | Docker basics | Zone 1 | 200 | ⬜ | [Docker Curriculum](https://docker-curriculum.com/) |
 | Playwright + TypeScript | Zone 1 | 300 | ⬜ | [Playwright Docs](https://playwright.dev/docs/test-typescript) |
 | GitHub Actions pipeline | Zone 1 | 300 | ⬜ | [GitHub Actions Guide](https://docs.github.com/en/actions/quickstart) |
