@@ -22,3 +22,5 @@ This isn't just a portfolio — it's my **Player Log** in the world of Software 
 Check out `quests_tracker.md` for XP, progress, and free resource links for each mission.
 
 > “I don’t just test. I build trust through quality.” – QA Alchemist 🧪
+
+![CI/CD Learning Progress](https://github.com/Kayric/qa-journey-roadmap/actions/workflows/ci.yml/badge.svg)
