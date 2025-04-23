@@ -8,8 +8,3 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Upload Recap Notes
-        uses: actions/upload-artifact@v4
-        with:
-          name: recap-notes
-          path: ci-cd-basics/02_what_is_ci_cd_pipeline.md

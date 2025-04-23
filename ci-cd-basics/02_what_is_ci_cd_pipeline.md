@@ -1,11 +1,7 @@
 # 🧪 Quest: CI/CD Basics
 📍 Lesson 2 : What is CI/CD Pipeline
-🎯 XP: 200  
 📅 Started: 21 April 2025
 ✅ Status: Finish
-
----
-🗺️ : [Simplilearn](https://www.simplilearn.com/free-ci-cd-online-training-course-skillup)
 
 ---
 

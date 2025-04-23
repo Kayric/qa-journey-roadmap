@@ -1,11 +1,7 @@
 # 🧪 Quest: CI/CD Basics
 📍 Lesson 1 : Introduction to DevOps
-🎯 XP: 200  
 📅 Started: 18 April 2025
 ✅ Status: Finish
-
----
-🗺️ : [Simplilearn](https://www.simplilearn.com/free-ci-cd-online-training-course-skillup)
 
 ---
 
